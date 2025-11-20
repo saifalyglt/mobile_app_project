@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hostel_1",
+    "name": "Green Valley Boys Hostel",
+    "city": "Lahore",
+    "address": "123 ABC Road, Model Town",
+    "coordinates": {"lat": 31.5204, "lng": 74.3587},
+    "thumbnailUrl": null,
+    "gallery": [],
+    "ownerId": "owner_1",
+    "priceRange": {"min": 3000, "max": 12000},
+    "rooms": [
+      {"type": "Single", "price": 8000, "quantity": 5, "availableQuantity": 2},
+      {"type": "Shared", "price": 4000, "quantity": 12, "availableQuantity": 8}
+    ],
+    "amenities": ["wifi", "electricity_backup", "food", "security"],
+    "rating": 4.5,
+    "reviewsCount": 34,
+    "isVerified": true,
+    "createdAt": "2024-11-01T12:00:00Z",
+    "description": "A comfortable and secure hostel with modern amenities. Located in a peaceful area with easy access to universities and city center.",
+    "phoneNumber": "+92-300-1234567",
+    "email": "greenvalley@example.com"
+  },
+  {
+    "id": "hostel_2",
+    "name": "City View Girls Hostel",
+    "city": "Karachi",
+    "address": "456 XYZ Street, Clifton",
+    "coordinates": {"lat": 24.8138, "lng": 67.0289},
+    "thumbnailUrl": null,
+    "gallery": [],
+    "ownerId": "owner_2",
+    "priceRange": {"min": 5000, "max": 15000},
+    "rooms": [
+      {"type": "Single", "price": 12000, "quantity": 10, "availableQuantity": 3},
+      {"type": "Double", "price": 8000, "quantity": 8, "availableQuantity": 5}
+    ],
+    "amenities": ["wifi", "food", "security", "ac", "laundry"],
+    "rating": 4.8,
+    "reviewsCount": 56,
+    "isVerified": true,
+    "createdAt": "2024-10-01T12:00:00Z",
+    "description": "Premium hostel facility with AC and modern facilities. Safe and secure environment for female students.",
+    "phoneNumber": "+92-300-7654321",
+    "email": "cityview@example.com"
+  },
+  {
+    "id": "hostel_3",
+    "name": "University Heights Hostel",
+    "city": "Islamabad",
+    "address": "789 F-7/3, Islamabad",
+    "coordinates": {"lat": 33.6844, "lng": 73.0479},
+    "thumbnailUrl": null,
+    "gallery": [],
+    "ownerId": "owner_3",
+    "priceRange": {"min": 4000, "max": 10000},
+    "rooms": [
+      {"type": "Shared", "price": 4000, "quantity": 20, "availableQuantity": 15},
+      {"type": "Triple", "price": 3000, "quantity": 10, "availableQuantity": 8}
+    ],
+    "amenities": ["wifi", "food", "security"],
+    "rating": 4.2,
+    "reviewsCount": 28,
+    "isVerified": true,
+    "createdAt": "2024-09-15T12:00:00Z",
+    "description": "Affordable hostel near universities. Clean rooms and friendly staff.",
+    "phoneNumber": "+92-300-9876543",
+    "email": "universityheights@example.com"
+  }
+]
+

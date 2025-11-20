@@ -1,0 +1,27 @@
+[
+  {
+    "id": "user_1",
+    "email": "student@example.com",
+    "name": "Ahmed Ali",
+    "phoneNumber": "+92-300-1111111",
+    "photoUrl": null,
+    "role": "student",
+    "createdAt": "2024-08-01T12:00:00Z",
+    "ownerInfo": null,
+    "isOwnerVerified": null,
+    "favoriteHostelIds": ["hostel_1"]
+  },
+  {
+    "id": "owner_1",
+    "email": "owner@example.com",
+    "name": "John Smith",
+    "phoneNumber": "+92-300-2222222",
+    "photoUrl": null,
+    "role": "owner",
+    "createdAt": "2024-07-01T12:00:00Z",
+    "ownerInfo": null,
+    "isOwnerVerified": true,
+    "favoriteHostelIds": null
+  }
+]
+
